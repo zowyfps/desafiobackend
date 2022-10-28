@@ -1,0 +1,23 @@
+{
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Squadra_45.jpg"
+    "id": 1
+
+},
+
+{
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_922410-MLA43556276077_092020-W.jpg"
+    "id": 2
+
+},
+
+{
+    "title": "Globo Terraqueo",
+    "price": 345.67,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_920961-MLA31579848144_072019-O.webp"
+    "id": 3
+
+},
